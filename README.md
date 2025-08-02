@@ -30,11 +30,10 @@ Understanding the ER diagram of a hospital database isn't just about technical c
 
 ### Breast Cancer Prediction Using Machine Learning
 
-Used **Excel** to analyze the Altera Employee Analysis data set I got from Techcrush (Altera Employee Data set) I first understood my dataset after I did the data cleaning, i used pivot table, Corrolation analysis, Dashboard
-[Git Link]
-)
+Used **Excel** to analyze the Altera Employee Analysis data set I got from Techcrush (Altera Employee Data set) I first understood my dataset after I did the data cleaning, i used pivot table, Corrolation analysis, Dashboard [Git Link]
+
 
 
 
 - Guest Lecture: Using Data in Religion Center - How to use data in the Religion Center to get insights for growth and development.
-- Guest Lecture at Genomac Innovation Hub - How to build your First Machine Learning Model without coding (no-code AI solutions). 21st mar 2025
+- Guest Lture at Genomac Innovation Hub - How to build your First Machine Learning Model without coding (no-code AI solutions). 21st mar 2025
