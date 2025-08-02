@@ -25,15 +25,5 @@ Let's explore the intricacies of an Entity-Relationship (ER) diagram for a hospi
 My Final Thoughts:
 Understanding the ER diagram of a hospital database isn't just about technical comprehension—it's about appreciating the intricate dance of data that supports patient care and hospital operations. This framework ensures that every piece of information is accessible, accurate, and interconnected, ultimately enhancing the health outcomes of patients.
 
-
-![ER Diagram](/New folder/WhatsApp Image 2024-11-28 at 08.57.49_3c7d30f0.jpg)
-
-### Breast Cancer Prediction Using Machine Learning
-
-Used **Excel** to analyze the Altera Employee Analysis data set I got from Techcrush (Altera Employee Data set) I first understood my dataset after I did the data cleaning, i used pivot table, Corrolation analysis, Dashboard [Git Link]
-
-
-
-
-- Guest Lecture: Using Data in Religion Center - How to use data in the Religion Center to get insights for growth and development.
-- Guest Lture at Genomac Innovation Hub - How to build your First Machine Learning Model without coding (no-code AI solutions). 21st mar 2025
+### Altera Employee Analysis
+Used **Excel** to analyze the Altera Employee Analysis data set I got from Techcrush (Altera Employee Data set) I first understood my dataset after I did the data cleaning, i used pivot table, Corrolation analysis, Dashboard [Git Link)
