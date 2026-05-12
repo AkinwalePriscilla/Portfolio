@@ -5,7 +5,7 @@
 ## Education 
 - SheCodeAfrica, Data Science (_May, 2026_)
 - TechCrush, American Council of Training and Development Diploma in Data Analytics (_June 2025_)
-- ALX, Virtual Assistance (-November  2024_)
+- ALX, Virtual Assistance (_November  2024_)
 - BNSC., Nursing Science| Osun State University (_June 2021_) 
 
 ## Work Experience
