@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst/Scientist
 
 #### Technical Skills: Excel, SQL, PowerBI, Python, Git
 
